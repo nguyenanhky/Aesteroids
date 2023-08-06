@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Asteroids</string>
+    <string name="astronomical_unit_format">%f au</string>
+    <string name="km_unit_format">%f km</string>
+    <string name="km_s_unit_format">%f km/s</string>
+
+    <string name="hazardous_text">Potentially Hazardous</string>
+    <string name="not_hazardous_text">Not Hazardous</string>
+
+    <string name="help_explanation">The astronomical unit (au) is a unit of length, roughly the distance from Earth to the Sun and equal to about 150 million kilometres (93 million miles)</string>
+    <string name="asteroid_status_image">Asteroid status image: hazardous or not</string>
+    <string name="close_approach_date">Close approach date</string>
+    <string name="absolute_magnitude">Absolute magnitude</string>
+    <string name="est_max_dia">Estimated maximum diameter</string>
+    <string name="relative_velocity">Relative velocity</string>
+    <string name="distance_from_earth">Distance from Earth</string>
+    <string name="help_info_icon">astronomical_unit_help_info_icon</string>
+    <string name="back_icon">back_icon</string>
+    <string name="asteroid_item_image">asteroid_item_image</string>
+    <string name="nasa_picture_of_the_day_image">NASA picture of the day</string>
+    <string name="picture_of_the_day_text">Picture Of The Day</string>
+</resources>
